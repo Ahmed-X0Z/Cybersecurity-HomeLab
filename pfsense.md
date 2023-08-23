@@ -17,7 +17,7 @@ gzip -d <filename>.gz
 *   Open **VMware**.
 *   Click on **Edit** on the top menu then **Virtual Network Editor**.
 
-![](Images/pfsense/Screenshot%20from%202023-08-23%2007-)
+![](Images/pfsense/Screenshot%20from%202023-08-23%2007-)<img src="Images/pfsense/Screenshot%20from%202023-08-23%2007-" width="50%"/>
 
 *   Click on **Add Network** and select **Host-only** then click **add.**
 *   Do the previous step one more time.
