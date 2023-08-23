@@ -1,5 +1,4 @@
 # Cybersecurity-HomeLab
-**Home Lab Project Documentation**
 
 **Overview**
 ------------
