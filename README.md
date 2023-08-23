@@ -5,7 +5,7 @@
 
 The Cybersecurity Home Lab project aims to create a comprehensive environment for learning and practicing various aspects of cybersecurity. The lab consists of multiple systems running different services and tools to simulate real-world scenarios and facilitate hands-on experiences. Here's an diagram of the components:
 
-<center><img src="Images/Network%20Diagram.png" alt="diagram" width="60%"/></center>
+<img src="Images/Network%20Diagram.png" alt="diagram" width="60%"/>
 
 **Main System (Ubuntu Server):**
 
