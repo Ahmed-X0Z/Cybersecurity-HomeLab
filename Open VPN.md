@@ -29,7 +29,8 @@ echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http:/
 apt update && apt -y install openvpn-as
 ```
 
-**If you faced the following error****![](Images/Open%20VPN/image.png)**
+**If you faced the following error**
+![](Images/Open%20VPN/image.png)
 
 Try:
 
