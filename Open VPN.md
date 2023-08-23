@@ -30,6 +30,7 @@ apt update && apt -y install openvpn-as
 ```
 
 **If you faced the following error**
+
 ![](Images/Open%20VPN/image.png)
 
 Try:
